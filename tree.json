@@ -1,0 +1,77 @@
+{
+  "families": [
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1*3c00f849-21e0-415f-9748-9a734cbe2aa0"
+        }
+      ],
+      "id": "F1*17383d3e-3f95-4d1c-9452-19108556d593",
+      "wifeRefs": [
+        {
+          "ref": "I2*bd117c47-5325-4e40-9811-2aa65d1d43b6"
+        }
+      ]
+    }
+  ],
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "23:11:32",
+      "value": "19 JUL 2022"
+    },
+    "file": "1.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "English",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.2.1 (c8c45e4)"
+    }
+  },
+  "people": [
+    {
+      "fams": [
+        {
+          "ref": "F1*17383d3e-3f95-4d1c-9452-19108556d593"
+        }
+      ],
+      "id": "I1*3c00f849-21e0-415f-9748-9a734cbe2aa0",
+      "names": [
+        {
+          "value": "X /X/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F1*17383d3e-3f95-4d1c-9452-19108556d593"
+        }
+      ],
+      "id": "I2*bd117c47-5325-4e40-9811-2aa65d1d43b6",
+      "names": [
+        {
+          "value": "Y /Y/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    }
+  ]
+}
