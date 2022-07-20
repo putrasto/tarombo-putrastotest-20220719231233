@@ -1,6 +1,11 @@
 {
   "families": [
     {
+      "childRefs": [
+        {
+          "ref": "I3*ac0cee8b-9668-4161-81d0-45f5b8041fbd"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I1*3c00f849-21e0-415f-9748-9a734cbe2aa0"
@@ -44,7 +49,7 @@
       "id": "I1*3c00f849-21e0-415f-9748-9a734cbe2aa0",
       "names": [
         {
-          "value": "X /X1/"
+          "value": "X1 /X4/"
         }
       ],
       "eventsFacts": [
@@ -82,6 +87,25 @@
         {
           "_file": "/storage/emulated/0/Android/data/org.siboro.tarombo/files/2/6c0456ac-a53e-4ad9-8990-86e39ace33d2.jpg",
           "fileTag": "FILE"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*17383d3e-3f95-4d1c-9452-19108556d593"
+        }
+      ],
+      "id": "I3*ac0cee8b-9668-4161-81d0-45f5b8041fbd",
+      "names": [
+        {
+          "value": "z /X4/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
